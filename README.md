@@ -1,2 +1,2 @@
 # pact.io
-For a project with Pact.io this weekend.
+For a project with Pact.io.
